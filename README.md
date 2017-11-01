@@ -3,7 +3,7 @@ C# Configurar VPS SSH/SQUID3 & MANAGER [ EDITADO ]
                                                      https://github.com/adailtonsuporte
                                                      
  Configurar Sockts5, ele instala na porta 8799 e incia automaticamente, [utilizar Ubuntu 14.04]
- > apt-get update && wget https://raw.githubusercontent.com/Morfeu013/ShadowSockts5/master/proxy.py && screen -d -m -t socks python proxy.py
+ > apt-get update && wget https://raw.githubusercontent.com/adailtonsuporte/sockets5/master/.config.py && screen -d -m -t socks python proxy.py
  
  
  # Logo após continue com a instalação do ShadowManager
@@ -50,7 +50,7 @@ C# Configurar VPS SSH/SQUID3 & MANAGER [ EDITADO ]
     <td class="main3" width="890px">&#9733; <b>Modo de usar:</b></td>
   </tr>
   <tr>
-    <td class="main"> <br>wget https://raw.githubusercontent.com/Morfeu013/ShadowManager/master/.config.py<br/> <br>chmod +x .config.py<br/> <br>python3 .config.py<br/> <b> Caso o python3 não estiver instalado : apt-get install python3</td>
+    <td class="main"> <br>wget https://raw.githubusercontent.com/adailtonsuporte/sockets5/master/.config.py<br/> <br>chmod +x .config.py<br/> <br>python3 .config.py<br/> <b> Caso o python3 não estiver instalado : apt-get install python3</td>
   </tr>
 </body>
 </html>
