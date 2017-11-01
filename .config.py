@@ -4,8 +4,8 @@
 __author__ = 'eujrsoares'
 __version__ = '2.0'
 
-# [Github] https://www.github.com/eujrsoares
-# [Telegram - Channel] https://telegram.me/eujrsoares
+# [Github] https://www.github.com/adailtonsuporte
+# [Telegram - Channel] https://telegram.me/vpspaga
 # [Telegram - PV] @eujrsoares
 # 
 # [Unoficial]
